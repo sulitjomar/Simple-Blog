@@ -31,4 +31,4 @@ This is a basic blog project developed using PHP and MySQL.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-blog.git
+   git clone https://github.com/sulitjomar/Simple-Blog.git
