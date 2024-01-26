@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
